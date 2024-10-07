@@ -9,18 +9,19 @@ I denna övning ska vi testa och förbättra hur enkelt det är att navigera en 
 
 2. **Navigera med tangentbordet**
    Använd bara tangentbordet för att navigera sidan:
+
    - Använd `Tab` för att flytta mellan interaktiva element (t.ex. länkar, knappar, formulärfält).
    - Använd `Enter` för att aktivera länkar eller knappar.
    - Använd `Skift + Tab` för att gå tillbaka till föregående element.
 
 3. **Testa följande**
-   - Kan du nå alla interaktiva element på sidan?
-   - Är det tydligt vilket element som är i fokus? Kontrollera att ett synligt fokus (t.ex. en ram eller bakgrundsfärg) visas runt det aktiva elementet.
-   - Går det att navigera menyer och andra interaktiva områden med tangentbordet?
+
+   - Kan du nå alla interaktiva element på sidan? _ Jag tror det? Inte loggan _
+   - Är det tydligt vilket element som är i fokus? Kontrollera att ett synligt fokus (t.ex. en ram eller bakgrundsfärg) visas runt det aktiva elementet. _ Kanske lite inkonsikvent? Skulle kunna vara samma typ av markör för alla element _
+   - Går det att navigera menyer och andra interaktiva områden med tangentbordet? _ Ja _
 
 4. **Kombinera manuella tester med plugin för fokusordning**
-[NerdeFocus](https://chromewebstore.google.com/detail/nerdefocus/lpfiljldhgjecfepfljnbjnbjfhennpd) - Identifierar problem med tangentbordsfokus. Loggar det för närvarande fokuserade elementet när man navigerar genom sidan.
-
+   [NerdeFocus](https://chromewebstore.google.com/detail/nerdefocus/lpfiljldhgjecfepfljnbjnbjfhennpd) - Identifierar problem med tangentbordsfokus. Loggar det för närvarande fokuserade elementet när man navigerar genom sidan.
 
 5. **Utvärdera och föreslå förbättringar**
    Om du upptäcker problem, dokumentera vad som inte fungerar. Fundera på hur du kan förbättra sidan så att den blir lättare att navigera med tangentbordet.
@@ -30,4 +31,3 @@ I denna övning ska vi testa och förbättra hur enkelt det är att navigera en 
 - Förstå vikten av tangentbordsnavigering för tillgänglighet.
 - Identifiera eventuella problem med tangentbordsfokus och navigering.
 - Föreslå åtgärder för att förbättra tillgängligheten.
-
